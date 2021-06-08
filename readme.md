@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 # Author
 #### Victoria Wasonga Okumu
@@ -12,7 +12,7 @@ To use the repository:
 2. Extract the content of the Zip in a folder
 3. Click on the index.html file and open with your favorite browser
 4. enjoy ):
-g
+
 ## View My Portfolio
 [View site](https://vokumu.github.io/calculator/)
 
